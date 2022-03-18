@@ -153,10 +153,7 @@
     
     @media (max-width:800px) {
         body {
-            background-color: unset;
-            background-image: url(image/gray.jpg);
-            background-attachment: fixed;
-            background-size: 100% 100%;
+           background-image: src="image/gray.png";
         }
         .navbar {
             height: 60px;
