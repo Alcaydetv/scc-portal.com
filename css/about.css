@@ -1,10 +1,10 @@
-    * {
+   * {
         padding: 0;
         margin: 0;
     }
     
     body {
-        background-color:gray;
+        background-color: rgba(7, 255, 214, 0.192);
         height: 500px;
     }
     
@@ -153,7 +153,6 @@
     
     @media (max-width:800px) {
         body {
-body {
             background-color: unset;
             background-image: url(gray.jpg);
             background-attachment: fixed;
